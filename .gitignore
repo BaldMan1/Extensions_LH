@@ -3,4 +3,4 @@
 .RData
 
 # Data Files
-.csv
+*.csv
